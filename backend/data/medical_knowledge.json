@@ -1,0 +1,140 @@
+[
+  {
+    "symptom": "back pain",
+    "aliases": ["backbone pain", "spine pain", "lower back pain", "upper back pain"],
+    "possible_causes": [
+      "muscle strain",
+      "poor posture",
+      "heavy lifting",
+      "disc irritation",
+      "nerve irritation",
+      "kidney-related problems",
+      "inflammation"
+    ],
+    "red_flags": [
+      "loss of bladder control",
+      "loss of bowel control",
+      "leg weakness",
+      "numbness",
+      "high fever",
+      "recent serious injury"
+    ],
+    "follow_up_questions": [
+      "Does the pain go down your leg?",
+      "Do you have numbness or weakness?",
+      "Did it start after an injury or heavy lifting?"
+    ],
+    "default_urgency": "LOW",
+    "red_flag_urgency": "HIGH"
+  },
+  {
+    "symptom": "eye pain",
+    "aliases": ["pain in my eye", "eye hurts", "pain behind eye", "red eye"],
+    "possible_causes": [
+      "dryness",
+      "eye strain",
+      "allergy",
+      "infection",
+      "irritation",
+      "injury",
+      "migraine",
+      "pressure-related eye problems"
+    ],
+    "red_flags": [
+      "vision loss",
+      "blurred vision",
+      "severe redness",
+      "eye injury",
+      "severe headache",
+      "light sensitivity"
+    ],
+    "follow_up_questions": [
+      "Do you have blurred vision or vision loss?",
+      "Is your eye red or sensitive to light?",
+      "Did the pain start after an injury?"
+    ],
+    "default_urgency": "MODERATE",
+    "red_flag_urgency": "HIGH"
+  },
+  {
+    "symptom": "chest pain",
+    "aliases": ["heart pain", "pain in my heart", "pain in chest", "chest tightness"],
+    "possible_causes": [
+      "muscle strain",
+      "acid reflux",
+      "stress or anxiety",
+      "breathing-related problems",
+      "lung irritation",
+      "heart-related conditions"
+    ],
+    "red_flags": [
+      "difficulty breathing",
+      "dizziness",
+      "fainting",
+      "sweating",
+      "pain spreading to arm",
+      "pain spreading to jaw"
+    ],
+    "follow_up_questions": [
+      "Do you also have dizziness or breathing difficulty?",
+      "Does the pain spread to your arm, jaw, back, or shoulder?",
+      "Did it start suddenly?"
+    ],
+    "default_urgency": "MODERATE",
+    "red_flag_urgency": "HIGH"
+  },
+  {
+    "symptom": "abdominal pain",
+    "aliases": ["stomach pain", "belly pain", "tummy pain", "pain in stomach"],
+    "possible_causes": [
+      "indigestion",
+      "gas",
+      "food irritation",
+      "infection",
+      "inflammation",
+      "bowel issues",
+      "nearby organ problems"
+    ],
+    "red_flags": [
+      "severe pain",
+      "persistent vomiting",
+      "blood in stool",
+      "black stool",
+      "high fever",
+      "rigid abdomen"
+    ],
+    "follow_up_questions": [
+      "Where exactly is the abdominal pain?",
+      "Do you have vomiting, diarrhea, fever, or blood in stool?",
+      "Is the pain mild, moderate, or severe?"
+    ],
+    "default_urgency": "MODERATE",
+    "red_flag_urgency": "HIGH"
+  },
+  {
+    "symptom": "difficulty breathing",
+    "aliases": ["breathing problem", "shortness of breath", "hard to breathe", "can't breathe"],
+    "possible_causes": [
+      "asthma",
+      "allergies",
+      "respiratory infection",
+      "anxiety",
+      "lung irritation",
+      "heart-related problems"
+    ],
+    "red_flags": [
+      "blue lips",
+      "chest pain",
+      "fainting",
+      "severe breathing difficulty",
+      "confusion"
+    ],
+    "follow_up_questions": [
+      "Is the breathing problem sudden or severe?",
+      "Do you also have chest pain, blue lips, dizziness, or fainting?",
+      "Does it happen at rest or only during activity?"
+    ],
+    "default_urgency": "HIGH",
+    "red_flag_urgency": "EMERGENCY"
+  }
+]
