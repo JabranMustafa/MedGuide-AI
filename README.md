@@ -174,7 +174,7 @@ MedGuide-AI/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MedGuide-AI.git
+git clone https://github.com/JabranMustafa/MedGuide-AI.git
 cd MedGuide-AI
 ```
 
